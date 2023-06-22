@@ -1,0 +1,21 @@
+1. Quản lý tài khoản
+  1.1. Vào app, đăng ký tài khoản.
+  1.2. Đăng xuất sau đó đăng nhập lại với tài khoản vừa tạo.
+  1.3. Đăng xuất sau đó bấm quên mật khẩu, trả lời câu hỏi rồi tạo MK mới, sau đó đăng nhập lại với mật khẩu vừa tạo.
+
+2. Bài viết
+  2.1. Tương tác
+    2.1.1. Chọn một quyển sách.
+    2.1.2. Upvote hoặc downvote một bài nào đó.
+    2.1.3. Bấm vào biểu tượng comment rồi gõ comment xong bấm SEND.
+  2.2. Lưu vào Read Later
+    2.2.1. Bấm Save một bài, sau đó chuyển qua Settings -> Read Later.
+    2.2.2. Sau khi vào Read Later, bấm more info, comment gì đó xong SEND
+    2.2.3. Nhấn back để quay lại giao diện Read Later, bấm Unsave để xóa khỏi Read Later
+  2.3 Tạo bài viết
+    2.3.1. Vào Settings -> General -> Request...
+    2.3.2. Đăng xuất rồi đăng nhập bằng tài khoản admin.
+    2.3.3. Bấm ACCEPT tài khoản vừa yêu cầu
+    2.3.4. Đăng xuất rồi đăng nhập lại bằng tài khoản vừa yêu cầu.
+    2.3.5. Bấm nút "+" ở góc, nhập các thông tin cần thiết, bấm Create
+    2.3.6. Vào bài review vừa tạo để xem và tương tác nếu còn thời gian.
