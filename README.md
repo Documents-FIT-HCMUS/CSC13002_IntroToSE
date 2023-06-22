@@ -1,2 +1,3 @@
-# CSC13002_IntroToSE
-All related documents of the course: Introduction to Software Engineering
+## Các tài nguyên khác
+
+* Playlist video bài giảng online: [NMCNPM - Online Class](https://www.youtube.com/playlist?list=PLD-uU9PUNiZZm6hiVpoQXfYJ4DNwWJG0r)
